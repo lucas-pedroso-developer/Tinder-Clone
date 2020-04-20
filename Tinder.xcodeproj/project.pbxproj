@@ -14,6 +14,22 @@
 		6AD7AC3F244A505E0075A0DB /* Tinder.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6AD7AC3D244A505E0075A0DB /* Tinder.xcdatamodeld */; };
 		6AD7AC41244A50640075A0DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6AD7AC40244A50640075A0DB /* Assets.xcassets */; };
 		6AD7AC44244A50640075A0DB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6AD7AC42244A50640075A0DB /* LaunchScreen.storyboard */; };
+		6AD7AC4D244A5E630075A0DB /* CombineVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AD7AC4C244A5E630075A0DB /* CombineVC.swift */; };
+		6AD7AC50244B29130075A0DB /* CombineCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AD7AC4F244B29130075A0DB /* CombineCardView.swift */; };
+		6AD7AC53244B2E1A0075A0DB /* UIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AD7AC52244B2E1A0075A0DB /* UIView.swift */; };
+		6AD7AC55244B340F0075A0DB /* UILabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AD7AC54244B340F0075A0DB /* UILabel.swift */; };
+		6AD7AC58244B78A20075A0DB /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AD7AC57244B78A20075A0DB /* User.swift */; };
+		6AD7AC5B244B7A130075A0DB /* UserService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AD7AC5A244B7A130075A0DB /* UserService.swift */; };
+		6AD7AC5D244B88150075A0DB /* UIImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AD7AC5C244B88150075A0DB /* UIImageView.swift */; };
+		6AD7AC5F244B98750075A0DB /* UIButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AD7AC5E244B98750075A0DB /* UIButton.swift */; };
+		6AD7AC61244C95740075A0DB /* Loading.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AD7AC60244C95740075A0DB /* Loading.swift */; };
+		6AD7AC63244CA02B0075A0DB /* MatchVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AD7AC62244CA02B0075A0DB /* MatchVC.swift */; };
+		6AD7AC67244CF0520075A0DB /* DetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AD7AC66244CF0520075A0DB /* DetailVC.swift */; };
+		6AD7AC69244CF6AD0075A0DB /* DetailHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AD7AC68244CF6AD0075A0DB /* DetailHeaderView.swift */; };
+		6AD7AC6B244D3BFA0075A0DB /* DetailPerfilCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AD7AC6A244D3BFA0075A0DB /* DetailPerfilCell.swift */; };
+		6AD7AC6D244D42360075A0DB /* DetailPhotoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AD7AC6C244D42360075A0DB /* DetailPhotoCell.swift */; };
+		6AD7AC6F244D46D30075A0DB /* SlidePhotoVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AD7AC6E244D46D30075A0DB /* SlidePhotoVC.swift */; };
+		6AD7AC71244DDCC80075A0DB /* SlidePhotoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AD7AC70244DDCC80075A0DB /* SlidePhotoCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +42,22 @@
 		6AD7AC40244A50640075A0DB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6AD7AC43244A50640075A0DB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6AD7AC45244A50640075A0DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6AD7AC4C244A5E630075A0DB /* CombineVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombineVC.swift; sourceTree = "<group>"; };
+		6AD7AC4F244B29130075A0DB /* CombineCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombineCardView.swift; sourceTree = "<group>"; };
+		6AD7AC52244B2E1A0075A0DB /* UIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIView.swift; sourceTree = "<group>"; };
+		6AD7AC54244B340F0075A0DB /* UILabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UILabel.swift; sourceTree = "<group>"; };
+		6AD7AC57244B78A20075A0DB /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		6AD7AC5A244B7A130075A0DB /* UserService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserService.swift; sourceTree = "<group>"; };
+		6AD7AC5C244B88150075A0DB /* UIImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIImageView.swift; sourceTree = "<group>"; };
+		6AD7AC5E244B98750075A0DB /* UIButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIButton.swift; sourceTree = "<group>"; };
+		6AD7AC60244C95740075A0DB /* Loading.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Loading.swift; sourceTree = "<group>"; };
+		6AD7AC62244CA02B0075A0DB /* MatchVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchVC.swift; sourceTree = "<group>"; };
+		6AD7AC66244CF0520075A0DB /* DetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailVC.swift; sourceTree = "<group>"; };
+		6AD7AC68244CF6AD0075A0DB /* DetailHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailHeaderView.swift; sourceTree = "<group>"; };
+		6AD7AC6A244D3BFA0075A0DB /* DetailPerfilCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailPerfilCell.swift; sourceTree = "<group>"; };
+		6AD7AC6C244D42360075A0DB /* DetailPhotoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailPhotoCell.swift; sourceTree = "<group>"; };
+		6AD7AC6E244D46D30075A0DB /* SlidePhotoVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlidePhotoVC.swift; sourceTree = "<group>"; };
+		6AD7AC70244DDCC80075A0DB /* SlidePhotoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlidePhotoCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +90,11 @@
 		6AD7AC33244A505E0075A0DB /* Tinder */ = {
 			isa = PBXGroup;
 			children = (
+				6AD7AC59244B79FC0075A0DB /* Service */,
+				6AD7AC56244B788F0075A0DB /* Model */,
+				6AD7AC51244B2DBF0075A0DB /* Lib */,
+				6AD7AC4E244B282C0075A0DB /* View */,
+				6AD7AC4B244A5E2A0075A0DB /* Controller */,
 				6AD7AC34244A505E0075A0DB /* AppDelegate.swift */,
 				6AD7AC36244A505E0075A0DB /* SceneDelegate.swift */,
 				6AD7AC38244A505E0075A0DB /* ViewController.swift */,
@@ -68,6 +105,57 @@
 				6AD7AC3D244A505E0075A0DB /* Tinder.xcdatamodeld */,
 			);
 			path = Tinder;
+			sourceTree = "<group>";
+		};
+		6AD7AC4B244A5E2A0075A0DB /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				6AD7AC4C244A5E630075A0DB /* CombineVC.swift */,
+				6AD7AC62244CA02B0075A0DB /* MatchVC.swift */,
+				6AD7AC66244CF0520075A0DB /* DetailVC.swift */,
+				6AD7AC6E244D46D30075A0DB /* SlidePhotoVC.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		6AD7AC4E244B282C0075A0DB /* View */ = {
+			isa = PBXGroup;
+			children = (
+				6AD7AC4F244B29130075A0DB /* CombineCardView.swift */,
+				6AD7AC60244C95740075A0DB /* Loading.swift */,
+				6AD7AC68244CF6AD0075A0DB /* DetailHeaderView.swift */,
+				6AD7AC6A244D3BFA0075A0DB /* DetailPerfilCell.swift */,
+				6AD7AC6C244D42360075A0DB /* DetailPhotoCell.swift */,
+				6AD7AC70244DDCC80075A0DB /* SlidePhotoCell.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		6AD7AC51244B2DBF0075A0DB /* Lib */ = {
+			isa = PBXGroup;
+			children = (
+				6AD7AC52244B2E1A0075A0DB /* UIView.swift */,
+				6AD7AC54244B340F0075A0DB /* UILabel.swift */,
+				6AD7AC5C244B88150075A0DB /* UIImageView.swift */,
+				6AD7AC5E244B98750075A0DB /* UIButton.swift */,
+			);
+			path = Lib;
+			sourceTree = "<group>";
+		};
+		6AD7AC56244B788F0075A0DB /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				6AD7AC57244B78A20075A0DB /* User.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		6AD7AC59244B79FC0075A0DB /* Service */ = {
+			isa = PBXGroup;
+			children = (
+				6AD7AC5A244B7A130075A0DB /* UserService.swift */,
+			);
+			path = Service;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -143,8 +231,24 @@
 			files = (
 				6AD7AC39244A505E0075A0DB /* ViewController.swift in Sources */,
 				6AD7AC3F244A505E0075A0DB /* Tinder.xcdatamodeld in Sources */,
+				6AD7AC61244C95740075A0DB /* Loading.swift in Sources */,
+				6AD7AC50244B29130075A0DB /* CombineCardView.swift in Sources */,
+				6AD7AC6F244D46D30075A0DB /* SlidePhotoVC.swift in Sources */,
+				6AD7AC53244B2E1A0075A0DB /* UIView.swift in Sources */,
+				6AD7AC6D244D42360075A0DB /* DetailPhotoCell.swift in Sources */,
+				6AD7AC67244CF0520075A0DB /* DetailVC.swift in Sources */,
 				6AD7AC35244A505E0075A0DB /* AppDelegate.swift in Sources */,
+				6AD7AC63244CA02B0075A0DB /* MatchVC.swift in Sources */,
+				6AD7AC69244CF6AD0075A0DB /* DetailHeaderView.swift in Sources */,
+				6AD7AC6B244D3BFA0075A0DB /* DetailPerfilCell.swift in Sources */,
+				6AD7AC58244B78A20075A0DB /* User.swift in Sources */,
+				6AD7AC5D244B88150075A0DB /* UIImageView.swift in Sources */,
+				6AD7AC5B244B7A130075A0DB /* UserService.swift in Sources */,
 				6AD7AC37244A505E0075A0DB /* SceneDelegate.swift in Sources */,
+				6AD7AC55244B340F0075A0DB /* UILabel.swift in Sources */,
+				6AD7AC4D244A5E630075A0DB /* CombineVC.swift in Sources */,
+				6AD7AC71244DDCC80075A0DB /* SlidePhotoCell.swift in Sources */,
+				6AD7AC5F244B98750075A0DB /* UIButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
